@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://api.ree6.de"
+export const BASE_PATH = "https://apiree6.auroragaming.online"
 
 export function get(path: string) {
 
